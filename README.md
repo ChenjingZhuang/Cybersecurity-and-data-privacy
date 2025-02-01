@@ -9,7 +9,6 @@
 | 24.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 2: Attacks, Concepts and Techniques   |
 | 25.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 3: Protecting your Data and Privacy   |
 | 26.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 3: Protecting your Data and Privacy   |
-| 27.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 3: Protecting your Data and Privacy   |
 | 28.01.2025 | 0.5h       | Cisco - Introduction to Cybersecurity | Module 4: Protecting the Organization   |
 | 29.01.2025 | 0.5h       | Cisco - Introduction to Cybersecurity | Module 4: Protecting the Organization   |
 | 30.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 5: Will You Future Be In Cybersecurity   |

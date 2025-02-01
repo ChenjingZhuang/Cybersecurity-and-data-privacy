@@ -13,5 +13,5 @@
 | 28.01.2025 | 0.5h       | Cisco - Introduction to Cybersecurity | Module 4: Protecting the Organization   |
 | 29.01.2025 | 0.5h       | Cisco - Introduction to Cybersecurity | Module 4: Protecting the Organization   |
 | 30.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 5: Will You Future Be In Cybersecurity   |
-| 31.01.2025 | 1.0h       | Workshop | Learning & Reviewing & Question & Anwsering   |
+| 31.01.2025 | 1.0h       | Workshop | Learning & Reviewing & Question & Anwsers   |
 | 01.02.2025 | 2.5h       | Cisco - Introduction to Cybersecurity | Module 3,4,5,  Final exam  |

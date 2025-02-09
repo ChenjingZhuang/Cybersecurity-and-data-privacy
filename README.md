@@ -14,3 +14,9 @@
 | 30.01.2025 | 1.0h       | Cisco - Introduction to Cybersecurity | Module 5: Will You Future Be In Cybersecurity   |
 | 31.01.2025 | 1.0h       | Workshop | Learning & Reviewing & Questions & Anwsers   |
 | 01.02.2025 | 2.5h       | Cisco - Introduction to Cybersecurity | Module 3,4,5,  Final exam  |
+| 02.02.2025 | 1.0h       | PortSwigger | Learning & Finish Labs|
+| 03.02.2025 | 1.0h       | PortSwigger | Learning & Finish Labs  |
+| 04.02.2025 | 1.0h       | PortSwigger | Learning & Finish Labs  |
+| 05.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
+| 06.02.2025 | 1.5h       | lecture | PortSwigger Environment Summary  |
+| 07.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |

@@ -20,3 +20,4 @@
 | 05.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 06.02.2025 | 1.5h       | lecture | PortSwigger Environment Summary  |
 | 07.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
+| 09.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |

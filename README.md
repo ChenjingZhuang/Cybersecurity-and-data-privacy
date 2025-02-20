@@ -25,5 +25,7 @@
 | 11.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 12.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 15.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
-| 19.02.2025 | 0.5h       | Bookingsystem | Learning |
-| 20.02.2025 | 0.5h       | Bookingsystem | Finishing work & Finding problems |
+| 17.02.2025 | 1.5h       | Bookingsystem | Learning |
+| 18.02.2025 | 1.0h       | Bookingsystem | Learning |
+| 19.02.2025 | 1.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
+| 20.02.2025 | 5.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|

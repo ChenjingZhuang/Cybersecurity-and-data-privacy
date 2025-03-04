@@ -1,0 +1,44 @@
+# Booking System - Phase 1: Penetration Test Report
+
+## Test Objective
+The objective of this test was to assess the security vulnerabilities in the registration page of the booking system (version 1 and version 2). The test aimed to identify common issues such as SQL injection, XSS vulnerabilities, authentication flaws, and improper data validation mechanisms.
+
+## Test Methodology
+
+### Tools Used:
+- OWASP ZAP
+- Burp Suite
+- Manual Testing for business logic flaws and functional issues.
+
+### Test Environment:
+- Application URL: [http://localhost:8000/register](http://localhost:8000/register)
+- Dockerized setup of the application as per instructions.
+- ZAP and Burp Suite were used for automated vulnerability scanning.
+- Manual testing was conducted to verify vulnerabilities and perform checks on functionality.
+
+## Test Results - Initial Version (Ver 1)
+
+### 1. Cross-Site Scripting (XSS):
+- **Issue:** Reflected XSS vulnerability was found on the registration page.
+- **Location:** Name input field.
+- **Description:** User input in the registration form was not sanitized, allowing an attacker to inject malicious JavaScript code.
+- **Fix Recommendation:** Implement input validation and output encoding for user input.
+
+### 2. SQL Injection:
+- **Issue:** SQL injection was detected in the registration form.
+- **Location:** Username and password fields.
+- **Description:** The application was vulnerable to SQL injection due to improper handling of user input in SQL queries.
+- **Fix Recommendation:** Use parameterized queries to prevent SQL injection.
+
+### 3. Missing CSRF Protection:
+- **Issue:** No protection against Cross-Site Request Forgery (CSRF).
+- **Location:** Registration form submission.
+- **Description:** The application did not include anti-CSRF tokens, making it vulnerable to CSRF attacks.
+- **Fix Recommendation:** Implement CSRF tokens for sensitive forms.
+
+### 4. Weak Password Storage:
+- **Issue:** Passwords are stored in plain text.
+- **Location:** Database.
+- **Description:** The application does not hash passwords before storing them, risking user data exposure.
+- **Fix Recommendation:** Use hashing algorithms like bcrypt to securely store passwords.
+

@@ -1,8 +1,8 @@
 # Booking System - Phase 1: Penetration Test Report
 
 ## Test Objective
-The objective of this test was to assess the security vulnerabilities in the registration page of the booking system (version 1 and version 2). The test aimed to identify common issues such as SQL injection, XSS vulnerabilities, authentication flaws, and improper data validation mechanisms.
-
+This test was to assess the security vulnerabilities in the registration page of the booking system-phase1. 
+The test aimed to know more about common issues such as SQL injection, XSS vulnerabilities, authentication flaws, and improper data validation mechanisms.
 ## Test Methodology
 
 ### Tools Used:

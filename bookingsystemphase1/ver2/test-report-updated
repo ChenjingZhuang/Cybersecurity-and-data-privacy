@@ -64,4 +64,5 @@ The test aimed to know more about common issues such as SQL injection, XSS vulne
 - **Authentication Mechanisms:** No authentication bypass issues were found during testing.
 
 ## Conclusion
-The application has undergone a thorough security review, and significant improvements have been made in version 2. All major vulnerabilities identified in version 1 have been addressed. However, continued security monitoring and testing are recommended to stay ahead of potential threats.
+The application has undergone a thorough security review, and significant improvements have been made in version 2. 
+All major vulnerabilities identified in version 1 have been addressed. However, continued security monitoring and testing are recommended to stay ahead of potential threats.

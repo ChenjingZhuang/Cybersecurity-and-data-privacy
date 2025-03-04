@@ -11,7 +11,7 @@ The test aimed to know more about common issues such as SQL injection, XSS vulne
 
 ### Test Environment:
 - Application URL: [http://localhost:8000/register](http://localhost:8000/register)
-- Dockerized setup of the application as per instructions.
+- Docker is used for setting up the application.
 - ZAP was used for automated vulnerability scanning.
 - Manual testing was conducted to verify vulnerabilities and perform checks on functionality.
 

@@ -7,13 +7,12 @@ The objective of this test was to assess the security vulnerabilities in the reg
 
 ### Tools Used:
 - OWASP ZAP
-- Burp Suite
 - Manual Testing for business logic flaws and functional issues.
 
 ### Test Environment:
 - Application URL: [http://localhost:8000/register](http://localhost:8000/register)
 - Dockerized setup of the application as per instructions.
-- ZAP and Burp Suite were used for automated vulnerability scanning.
+- ZAP was used for automated vulnerability scanning.
 - Manual testing was conducted to verify vulnerabilities and perform checks on functionality.
 
 ## Test Results - Initial Version (Ver 1)

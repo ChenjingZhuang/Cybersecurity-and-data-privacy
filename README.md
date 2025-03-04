@@ -29,3 +29,6 @@
 | 18.02.2025 | 1.0h       | Bookingsystem | Learning |
 | 19.02.2025 | 1.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
 | 20.02.2025 | 5.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
+| 21.02.2025 | 1.0h       | Bookingsystem | Trying to do the work in MacOS system|
+| 03.03.2025 | 3.0h       | Bookingsystem | Finding a campus loptop to do the work|
+| 04.03.2025 | 3.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|

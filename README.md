@@ -24,11 +24,13 @@
 | 10.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 11.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 12.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
+| 14.02.2025 | 1.0h       | lecture | Knowing the project |
 | 15.02.2025 | 0.5h       | PortSwigger | Learning & Finish Labs |
 | 17.02.2025 | 1.5h       | Bookingsystem | Learning |
 | 18.02.2025 | 1.0h       | Bookingsystem | Learning |
 | 19.02.2025 | 1.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
 | 20.02.2025 | 5.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
+| 21.02.2025 | 1.0h       | Workshop | Continus working|
 | 21.02.2025 | 1.0h       | Bookingsystem | Trying to do the work in MacOS system|
 | 03.03.2025 | 3.0h       | Bookingsystem | Finding a campus loptop to do the work|
 | 04.03.2025 | 3.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|

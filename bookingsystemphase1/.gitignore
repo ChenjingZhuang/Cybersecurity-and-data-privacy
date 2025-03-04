@@ -1,0 +1,9 @@
+db/
+static/
+views/
+app.js
+Dockerfile
+docker-compose-dev.yml
+database/
+routes/
+.env

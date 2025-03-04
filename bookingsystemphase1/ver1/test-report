@@ -40,4 +40,3 @@ The objective of this test was to assess the security vulnerabilities in the reg
 - **Location:** Database.
 - **Description:** The application does not hash passwords before storing them, risking user data exposure.
 - **Fix Recommendation:** Use hashing algorithms like bcrypt to securely store passwords.
-

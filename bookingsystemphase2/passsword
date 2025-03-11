@@ -18,6 +18,11 @@ a0e8402fe185455606a2ae870dcbc4cd:carrots123
 ~                                                                                                                                                                                                                                           
 ~                                                                                                                                                                                                                                           
 ~                                                                                                                                                                                                                                           
+               hashcat -m 0 -a 6 password2.txt rockyou.txt ?d?d?d
+               
+                                                                              hashcat -m 0 -a 0 password2.txt --show
+                                                                                                           
 ~                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                                                                                                                                               
 ~                                                                                                                                                                                                                                           
 ~                                 

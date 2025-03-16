@@ -34,3 +34,9 @@
 | 21.02.2025 | 1.0h       | Bookingsystem | Trying to do the work in MacOS system|
 | 03.03.2025 | 3.0h       | Bookingsystem | Finding a campus loptop to do the work|
 | 04.03.2025 | 3.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
+| 06.03.2025 | 4.0h       | Lecture&Workshop | Bookingsystem project|
+| 07.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 09.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 13.03.2025 | 2.0h       | Lecture | Bookingsystem project|
+| 15.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 16.03.2025 | 1.0h       | Work | Bookingsystem project|

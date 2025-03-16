@@ -12,16 +12,7 @@
       10 | ruhroh@mysterymachine.com    | ad17fbd845000b11678ccbf94e135b56 | reserver      | 1987-03-30 | fb9d315b-d1f1-49a1-8717-f28db6b94989                                                                                              
 (10 rows)                                                                                                                                                                                                                                   
                                                    
-5f4dcc3b5aa765d61d8327deb882cf99:password
-a0e8402fe185455606a2ae870dcbc4cd:carrots123
-                                                                                                                                                                                         
-~                                                                                                                                                                                                                                           
-~                                                                                                                                                                                                                                           
-~                                                                                                                                                                                                                                           
-               hashcat -m 0 -a 6 password2.txt rockyou.txt ?d?d?d
-               
-                                                                              hashcat -m 0 -a 0 password2.txt --show
-                                                                                                           
+                                                                                                  
 ~                                                                                                                                                                                                                                           
 ~                                                                                                                                                                                                                                                                                                                                                                               
 ~                                                                                                                                                                                                                                           

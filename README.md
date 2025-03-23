@@ -36,7 +36,16 @@
 | 04.03.2025 | 3.0h       | Bookingsystem | Finishing work & Finding problems & Finding solutions|
 | 06.03.2025 | 4.0h       | Lecture&Workshop | Bookingsystem project|
 | 07.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 08.03.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 | 09.03.2025 | 1.0h       | Work | Bookingsystem project|
 | 13.03.2025 | 2.0h       | Lecture | Bookingsystem project|
 | 15.03.2025 | 1.0h       | Work | Bookingsystem project|
 | 16.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 17.03.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 18.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 19.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 20.03.2025 | 2.0h       | Lecutre | Bookingsystem project|
+| 21.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 22.03.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 23.03.2025 | 1.0h       | Work | Bookingsystem project|
+

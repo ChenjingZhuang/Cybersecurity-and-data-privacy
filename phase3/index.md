@@ -1,36 +1,34 @@
 # Phase 3 - Authorization Testing Report
 
 ## Authorization Table
-
 | Page / Feature           | Guest | Reserver | Administrator |
-|--------------------------|:-----:|:--------:|:--------------:|
-| `/` (index)              |       |          |                |
-| └─ View resource form    | ❌    | ✅        | ✅ *note added* |
-| └─ Create new resource   | ❌ *1 | ❌ *2     | ✅ *3          |
+|--------------------------|:-----:|:--------:|:-------------:|
+| / (index)                | ✅    | ✅       | ✅            |
+| └─ Create users with different roles    |  ✅   | ✅       | ✅            |
+| └─ View resource form    | ❌    | ✅       | ✅            |
+| └─ Create new resource   | ❌    | ✅       | ✅            |
+| └─ Make a reservation    | ❌    | ✅       | ✅            |
+| └─ View all reservations | ❌    | ✅       | ✅            |
+| └─ Edit a reservation    | ❌    | ✅ only can edit the one that reserver made      | ✅  can do all to the whole reserveration     |
+| └─ Delete a reservation  | ❌    | ❌ didnot see the cancel button      | ❌    didnot see the cancel button        |
 
-### Symbols used:
-- ✅ Pass (a note can be added)  
-- ❌ Fail (a note can be added)  
-- ⚠️ Attention (a note can be added)
-
-### Notes:
-- *1 Add some note to this.*
-- *2 Add some note to this.*
-- *3 Add some note to this.*
-
----
 
 ## Testing Techniques
 
 ### ✅ 1. Browser Testing
 
-- Create users with different roles
-- Make reserveable resources
-- Make reservations
-- Test navigation and permissions
-- Add notes to the table as you go
+### Notes:
+1. **Create new resource:** Guests cannot create new resources.
+2. **Create new resource:** Reservers and Administrators can create new resources.
+3. **Create new resource:** Administrators and Reservers can create new resources.
+4. **View resource form:** Administrators and Reservers can see.
+5. **Make a reservation:** Guests cannot make a reservation, only Reservers and Administrators can do so.
+6. **View all reservations:** Guests cannot view reservations. Only Reservers and Administrators can view and manage reservations.
+7. **Edit a reservation:** Only Administrators have permission to edit all reservations. Reservers only can edit the one they resevered.
+8. **Delete a reservation:** didnot see a cancel button.
 
----
+### Testing Steps:
+
 
 ### ✅ 2. ZAP Testing
 

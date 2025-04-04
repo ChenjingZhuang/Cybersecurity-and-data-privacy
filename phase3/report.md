@@ -27,7 +27,7 @@
 7. **Edit a reservation:** Only Administrators have permission to edit all reservations. Reservers only can edit the one they resevered.
 8. **Delete a reservation:** didnot see a cancel button.
 
-### Testing Steps:
+### Testing Steps: 
 
 
 ### ✅ 2. ZAP Testing

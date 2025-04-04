@@ -12,6 +12,15 @@
 | └─ Edit a reservation    | ❌    | ✅ only can edit the one that reserver made      | ✅  can do all to the whole reserveration     |
 | └─ Delete a reservation  | ❌    | ❌ didnot see the cancel button      | ❌    didnot see the cancel button        |
 
+## ZAPROXY
+## Alerts
+
+| Name | Risk Level | Number of Instances |
+| --- | --- | --- |
+| Authentication Request Identified | Informational | 1 |
+| Session Management Response Identified | Informational | 2 |
+| User Agent Fuzzer | Informational | 24 |
+
 
 ## Testing Techniques
 

@@ -12,6 +12,44 @@
 | └─ Edit a reservation    | ❌    | ✅ only can edit the one that reserver made      | ✅  can do all to the whole reserveration     |
 | └─ Delete a reservation  | ❌    | ❌ didnot see the cancel button      | ❌    didnot see the cancel button        |
 
+# ✅ Access Control Table – Final Version
+
+This table lists all discovered pages and their accessible features by role: Guest, Reserver, and Administrator. Notes below explain access logic and specification alignment.
+
+| Page / Feature                                 | Guest | Reserver | Administrator |
+|------------------------------------------------|:-----:|:--------:|:-------------:|
+| `/` (index)                                    |  ✅   |   ✅     |      ✅       |
+| └─ View resource form                          |  ❌   |   ✅     |      ✅       |
+| └─ Create new resource                         |  ❌ *1|  ❌ *2   |     ✅ *3     |
+| └─ View resource form    | ❌    | ✅       | ✅            |
+| `/login`                                       |  ❌   |   ✅     |      ✅       |
+| `/logout`                                      |  ❌  |   ✅     |      ✅       |
+| `/register`                                    |  ✅   |   ✅     |      ✅       |
+| └─ Make a reservation    | ❌    | ✅       | ✅            |
+| └─ View all reservations | ❌    | ✅       | ✅            |
+| └─ Edit a reservation    | ❌    | ✅ only can edit the one that reserver made      | ✅  can do all to the whole reserveration     |
+| └─ Delete a reservation  | ❌    | ❌ didnot see the cancel button      | ❌    didnot see the cancel button        |
+| `/api/resources`                               |  ✅   |   ✅     |      ✅       |
+| `/api/session`                                 |  ❌   |   ✅     |      ✅       |
+| `/api/users`                                   |  ❌   |   ✅     |      ✅       |
+| `/api/reservations/2`                          |  ❌   | ✅ *4    |     ✅ *5     |
+| `/api/reservations/5`                          |  ❌   | ✅ *4    |     ✅ *5     |
+
+---
+
+### ✅ Symbols Used
+
+- ✅ Pass (access granted, working as intended)
+- ❌ Fail (access denied or forbidden)
+- ⚠️ Attention (requires manual verification or has caveats)
+
+---
+
+> ✅ This table now serves as a full audit of feature access across user roles.  
+> 📤 You can now upload this file directly to your GitHub repo as your testing result documentation.
+
+
+
 ## ZAPROXY
 ## Alerts
 

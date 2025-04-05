@@ -115,7 +115,5 @@
   - The most common pages found were login, register, resources, and API endpoints (`/api/resources`, `/api/users`).
   - Specific reservation pages like `/api/reservations/2` and `/api/reservations/5` are accessible, with each page containing reservation details.
 
-- **Important Information:**
-  - The application appears to have a standard set of pages such as login, logout, resources, and user-related API endpoints.
-  - Reservations are stored under the `/api/reservations/{id}` endpoint and provide detailed information about each reservation, including start/end times and reserver tokens.
+
 

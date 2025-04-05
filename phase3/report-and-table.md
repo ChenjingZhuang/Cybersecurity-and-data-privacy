@@ -20,8 +20,8 @@
 | `/api/resources`                               |  ✅   |   ✅     |      ✅       |
 | `/api/session`                                 |  ❌   |   ✅     |      ✅       |
 | `/api/users`                                   |  ❌   |   ✅     |      ✅       |
-| `/api/reservations/2`                          |  ❌   | ✅ *3    |     ✅ *5     |
-| `/api/reservations/5`                          |  ❌   | ✅ *3    |     ✅ *5     |
+| `/api/reservations/2`                          |  ❌   | ✅     |     ✅    |
+| `/api/reservations/5`                          |  ❌   | ✅    |     ✅     |
 
 ---
 

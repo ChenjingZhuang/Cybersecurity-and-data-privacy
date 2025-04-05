@@ -45,6 +45,7 @@
 6. **View all reservations:** Guests cannot view reservations. Only Reservers and Administrators can view and manage reservations.
 7. **Edit a reservation:** Only Administrators have permission to edit all reservations. Reservers only can edit the one they resevered.
 8. **Delete a reservation:** didnot see a cancel button.
+![Screenshot](https://github.com/ChenjingZhuang/Cybersecurity-and-data-privacy/blob/main/phase3/Screenshot%202025-04-04%20at%2023.17.31.png)
 
 ### Testing Steps: 
 

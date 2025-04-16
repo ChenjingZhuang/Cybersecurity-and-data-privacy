@@ -19,7 +19,7 @@ By using our web-based booking system, you agree to the following terms:
 - Report any security issues immediately.
 
 ## 4. Privacy
-- Your personal data is handled according to our [Privacy Policy](/privacypolicy).
+- Your personal data is handled according to our [Privacy Policy](/phase4/privacypolicy).
 - You have rights to access, edit, and delete your data.
 
 ## 5. Termination

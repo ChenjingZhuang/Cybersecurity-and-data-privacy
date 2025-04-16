@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: [Insert Date]
+Effective date: 11.04.2025
 
 This Privacy Policy explains how we collect, use, and protect your personal data when using our web-based booking system.
 

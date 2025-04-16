@@ -3,8 +3,8 @@
 | **Result** | **Personal data mapping and minimization** |
 | :----: | :--- |
 | &nbsp;✅ | Have all personal data collected and processed in the system been<br> identified? (e.g., name, email, age, username) |
-| &nbsp;✅/❌/⚠️&nbsp; | Have you ensured that only necessary personal data is collected (data minimization)? |
-| &nbsp;✅/❌/⚠️&nbsp; | Is user age recorded to verify that the booker is over 15 years old? |
+| &nbsp;✅ | Have you ensured that only necessary personal data is collected (data minimization)? |
+| &nbsp;✅ | Is user age recorded to verify that the booker is over 15 years old? |
 
 ---
 

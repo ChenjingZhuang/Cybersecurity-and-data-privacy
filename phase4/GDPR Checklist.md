@@ -12,7 +12,7 @@
 | :----: | :--- |
 | &nbsp;✅ | Does the registration form (page) include GDPR-compliant consent for processing<br> personal data (e.g., acceptance of the privacy policy)?|
 | ❌ | Can users view, edit, and delete their own personal data via their account? |
-| ⚠️&nbsp; | Is there a mechanism for the administrator to delete a reserver in<br> accordance with the "right to be forgotten"? |
+| ⚠️&nbsp; can't see| Is there a mechanism for the administrator to delete a reserver in<br> accordance with the "right to be forgotten"? |
 | ✅ | Is underage registration (under 15 years) and booking functionality restricted? |
 
 ---
@@ -43,16 +43,16 @@
 | **Result** | **Data security** |
 | :----: | :--- |
 | &nbsp;✅/❌/⚠️&nbsp; | Are CSRF, XSS, and SQL injection protections implemented? |
-| &nbsp;✅/❌/⚠️&nbsp; | Are passwords securely hashed using a strong algorithm (e.g., bcrypt, Argon2)? |
-| &nbsp;✅/❌/⚠️&nbsp; | Are data backup and recovery processes GDPR-compliant? |
-| &nbsp;✅/❌/⚠️&nbsp; | Is personal data stored in data centers located within the EU? |
+| &nbsp;⚠️ only need 8 characters| Are passwords securely hashed using a strong algorithm (e.g., bcrypt, Argon2)? |
+| &nbsp;⚠️ | Are data backup and recovery processes GDPR-compliant? |
+| &nbsp;✅| Is personal data stored in data centers located within the EU? |
 
 ---
 
 | **Result** | **Data anonymization and pseudonymization** |
 | :----: | :--- |
 | &nbsp;⚠️ can see email | Is personal data anonymized where possible? |
-| &nbsp;⚠️ | Are pseudonymization techniques used to protect data while maintaining its utility? |
+| &nbsp;⚠️  | Are pseudonymization techniques used to protect data while maintaining its utility? |
 
 ---
 

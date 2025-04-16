@@ -52,8 +52,15 @@
 | 27.03.2025 | 2.0h       | Self-study Lecutre  | Bookingsystem project|
 | 28.03.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 | 29.03.2025 | 1.0h       | Work | Bookingsystem project|
-| 30.03.2025 | 1.0h       | Work | Bookingsystem project|
+| 30.03.2025 | 3.0h       | Work | Bookingsystem project|
 | 01.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 | 02.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 | 03.04.2025 | 1.5h       | Lecutre | Bookingsystem project|
+| 04.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 06.04.2025 | 1.5h       | PortSwigger | Learning & Finish Labs|
+| 07.04.2025 | 1.0h       | Work | Bookingsystem project|
+| 08.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 10.04.2025 | 1.5h       | Lecutre | Bookingsystem project|
+| 11.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 13.042025 | 3.0h       | Work | Bookingsystem project|
 

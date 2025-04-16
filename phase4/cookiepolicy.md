@@ -1,6 +1,6 @@
 # Cookie Policy
 
-Effective date: [Insert Date]
+Effective date: 01.04.2024
 
 This Cookie Policy explains how cookies are used in our web-based booking system.
 

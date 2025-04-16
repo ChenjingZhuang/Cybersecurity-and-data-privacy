@@ -51,24 +51,24 @@
 
 | **Result** | **Data anonymization and pseudonymization** |
 | :----: | :--- |
-| &nbsp;✅/❌/⚠️&nbsp; | Is personal data anonymized where possible? |
-| &nbsp;✅/❌/⚠️&nbsp; | Are pseudonymization techniques used to protect data while maintaining its utility? |
+| &nbsp;⚠️ can see email | Is personal data anonymized where possible? |
+| &nbsp;⚠️ | Are pseudonymization techniques used to protect data while maintaining its utility? |
 
 ---
 
 | **Result** | **Data subject rights** |
 | :----: | :--- |
-| &nbsp;✅/❌/⚠️&nbsp; | Can users download or request all personal data related to them (data access request)? |
-| &nbsp;✅/❌/⚠️&nbsp; | Is there an interface or process for users to request the deletion of their personal data? |
-| &nbsp;✅/❌/⚠️&nbsp; | Can users withdraw their consent for data processing? |
+| &nbsp;❌ | Can users download or request all personal data related to them (data access request)? |
+| &nbsp;❌ | Is there an interface or process for users to request the deletion of their personal data? |
+| &nbsp;⚠️ | Can users withdraw their consent for data processing? |
 
 ---
 
 | **Result** | **Documentation and communication** |
 | :----: | :--- |
-| &nbsp;✅/❌/⚠️&nbsp; | Is there a privacy policy available to users during registration and easily accessible? |
-| &nbsp;✅/❌/⚠️&nbsp; | Are administrators and developers provided with documented data protection practices <br>and processing activities? |
-| &nbsp;✅/❌/⚠️&nbsp; | Is there a documented data breach response process (e.g., how to notify authorities <br>and users of a breach)? |
+| &nbsp;❌ | Is there a privacy policy available to users during registration and easily accessible? |
+| &nbsp;⚠️ | Are administrators and developers provided with documented data protection practices <br>and processing activities? |
+| &nbsp;⚠️&nbsp; | Is there a documented data breach response process (e.g., how to notify authorities <br>and users of a breach)? |
 
 ---
 

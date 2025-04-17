@@ -33,7 +33,6 @@ You have the right to:
 - Delete your account (right to be forgotten)
 - Withdraw consent at any time
 - Lodge a complaint with a data protection authority
-
 ## 6. Data security
 We use industry-standard encryption, secure login, role-based access, and hashing (e.g., bcrypt) to protect your data.
 

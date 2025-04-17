@@ -39,4 +39,3 @@ We use industry-standard encryption, secure login, role-based access, and hashin
 
 ## 7. Contact
 For questions about this policy or your data, please contact us at: booking@gmail.com
-

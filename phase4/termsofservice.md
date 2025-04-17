@@ -29,4 +29,4 @@ We reserve the right to suspend or terminate accounts for violating these terms.
 We may update these terms; changes will be posted on this page with a new effective date.
 
 ## 7. Contact
-For any questions about these terms, email: [Insert contact email]
+For any questions about these terms, email: booking@gmail.com

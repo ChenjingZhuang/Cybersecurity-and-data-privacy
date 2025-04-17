@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective date: 11.04.2025
+Effective date: 12.04.2025
 
 By using our web-based booking system, you agree to the following terms:
 

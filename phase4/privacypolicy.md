@@ -1,7 +1,6 @@
 # Privacy Policy
 
 Effective date: 11.04.2025
-
 This Privacy Policy explains how we collect, use, and protect your personal data when using our web-based booking system.
 
 ## 1. What data we collect
@@ -39,5 +38,5 @@ You have the right to:
 We use industry-standard encryption, secure login, role-based access, and hashing (e.g., bcrypt) to protect your data.
 
 ## 7. Contact
-For questions about this policy or your data, please contact us at: [Insert contact email]
+For questions about this policy or your data, please contact us at: booking@gmail.com
 

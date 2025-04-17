@@ -71,7 +71,6 @@
 | &nbsp;⚠️&nbsp; | Is there a documented data breach response process (e.g., how to notify authorities <br>and users of a breach)? |
 
 ---
-
 **Symbols used:**  
 ✅ Pass (a note can be added)  
 ❌ Fail (a note can be added)  

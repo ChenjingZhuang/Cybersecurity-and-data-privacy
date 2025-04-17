@@ -23,7 +23,6 @@ By using our web-based booking system, you agree to the following terms:
 
 ## 5. Termination
 We reserve the right to suspend or terminate accounts for violating these terms.
-
 ## 6. Changes
 We may update these terms; changes will be posted on this page with a new effective date.
 

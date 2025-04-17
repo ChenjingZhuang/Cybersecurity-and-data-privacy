@@ -29,4 +29,4 @@ Some features (like embedded maps or analytics) may use third-party cookies. We 
 We use a cookie consent banner provided by [cookieyes.com](https://www.cookieyes.com/) to comply with GDPR.
 
 ## 6. Contact
-Questions about our cookie use? Email: [Insert contact email]
+Questions about our cookie use? Email: booking@gmail.com

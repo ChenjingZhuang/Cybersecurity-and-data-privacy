@@ -1,4 +1,4 @@
-# GDPR Compliance Checklist – Web-based Booking System
+# GDPR Compliance Checklist 
 
 | **Result** | **Personal data mapping and minimization** |
 | :----: | :--- |

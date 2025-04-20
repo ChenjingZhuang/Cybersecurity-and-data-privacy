@@ -62,5 +62,7 @@
 | 08.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 | 10.04.2025 | 1.5h       | Lecutre | Bookingsystem project|
 | 11.04.2025 | 1.0h       | PortSwigger | Learning & Finish Labs |
-| 13.042025 | 3.0h       | Work | Bookingsystem project|
+| 13.042025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 19.042025 | 1.0h       | PortSwigger | Learning & Finish Labs |
+| 19.042025 | 1.0h       | PortSwigger | Learning & Finish Labs |
 
